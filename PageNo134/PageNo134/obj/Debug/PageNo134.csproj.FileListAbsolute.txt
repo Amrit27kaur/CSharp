@@ -1,0 +1,7 @@
+C:\Users\trios1098\source\repos\PageNo134\PageNo134\bin\Debug\PageNo134.exe.config
+C:\Users\trios1098\source\repos\PageNo134\PageNo134\bin\Debug\PageNo134.exe
+C:\Users\trios1098\source\repos\PageNo134\PageNo134\bin\Debug\PageNo134.pdb
+C:\Users\trios1098\source\repos\PageNo134\PageNo134\obj\Debug\PageNo134.csprojAssemblyReference.cache
+C:\Users\trios1098\source\repos\PageNo134\PageNo134\obj\Debug\PageNo134.csproj.CoreCompileInputs.cache
+C:\Users\trios1098\source\repos\PageNo134\PageNo134\obj\Debug\PageNo134.exe
+C:\Users\trios1098\source\repos\PageNo134\PageNo134\obj\Debug\PageNo134.pdb

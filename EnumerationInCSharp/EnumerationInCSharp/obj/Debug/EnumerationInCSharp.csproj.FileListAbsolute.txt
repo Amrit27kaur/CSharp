@@ -1,0 +1,7 @@
+C:\Users\trios1098\source\repos\EnumerationInCSharp\EnumerationInCSharp\bin\Debug\EnumerationInCSharp.exe.config
+C:\Users\trios1098\source\repos\EnumerationInCSharp\EnumerationInCSharp\bin\Debug\EnumerationInCSharp.exe
+C:\Users\trios1098\source\repos\EnumerationInCSharp\EnumerationInCSharp\bin\Debug\EnumerationInCSharp.pdb
+C:\Users\trios1098\source\repos\EnumerationInCSharp\EnumerationInCSharp\obj\Debug\EnumerationInCSharp.csprojAssemblyReference.cache
+C:\Users\trios1098\source\repos\EnumerationInCSharp\EnumerationInCSharp\obj\Debug\EnumerationInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\trios1098\source\repos\EnumerationInCSharp\EnumerationInCSharp\obj\Debug\EnumerationInCSharp.exe
+C:\Users\trios1098\source\repos\EnumerationInCSharp\EnumerationInCSharp\obj\Debug\EnumerationInCSharp.pdb

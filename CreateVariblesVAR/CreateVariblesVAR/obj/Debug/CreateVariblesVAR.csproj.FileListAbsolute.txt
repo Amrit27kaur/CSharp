@@ -1,0 +1,12 @@
+C:\Users\trios1098\source\repos\CreateVariblesVAR\CreateVariblesVAR\bin\Debug\CreateVariblesVAR.exe.config
+C:\Users\trios1098\source\repos\CreateVariblesVAR\CreateVariblesVAR\bin\Debug\CreateVariblesVAR.exe
+C:\Users\trios1098\source\repos\CreateVariblesVAR\CreateVariblesVAR\bin\Debug\CreateVariblesVAR.pdb
+C:\Users\trios1098\source\repos\CreateVariblesVAR\CreateVariblesVAR\obj\Debug\CreateVariblesVAR.csproj.CoreCompileInputs.cache
+C:\Users\trios1098\source\repos\CreateVariblesVAR\CreateVariblesVAR\obj\Debug\CreateVariblesVAR.exe
+C:\Users\trios1098\source\repos\CreateVariblesVAR\CreateVariblesVAR\obj\Debug\CreateVariblesVAR.pdb
+C:\Users\trios1098\source\repos\CSharp##\CreateVariblesVAR\CreateVariblesVAR\bin\Debug\CreateVariblesVAR.exe.config
+C:\Users\trios1098\source\repos\CSharp##\CreateVariblesVAR\CreateVariblesVAR\bin\Debug\CreateVariblesVAR.exe
+C:\Users\trios1098\source\repos\CSharp##\CreateVariblesVAR\CreateVariblesVAR\bin\Debug\CreateVariblesVAR.pdb
+C:\Users\trios1098\source\repos\CSharp##\CreateVariblesVAR\CreateVariblesVAR\obj\Debug\CreateVariblesVAR.csproj.CoreCompileInputs.cache
+C:\Users\trios1098\source\repos\CSharp##\CreateVariblesVAR\CreateVariblesVAR\obj\Debug\CreateVariblesVAR.exe
+C:\Users\trios1098\source\repos\CSharp##\CreateVariblesVAR\CreateVariblesVAR\obj\Debug\CreateVariblesVAR.pdb

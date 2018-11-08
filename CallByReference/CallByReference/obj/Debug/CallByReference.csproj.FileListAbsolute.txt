@@ -1,0 +1,7 @@
+C:\Users\trios1098\source\repos\CallByReference\CallByReference\bin\Debug\CallByReference.exe.config
+C:\Users\trios1098\source\repos\CallByReference\CallByReference\bin\Debug\CallByReference.exe
+C:\Users\trios1098\source\repos\CallByReference\CallByReference\bin\Debug\CallByReference.pdb
+C:\Users\trios1098\source\repos\CallByReference\CallByReference\obj\Debug\CallByReference.csprojAssemblyReference.cache
+C:\Users\trios1098\source\repos\CallByReference\CallByReference\obj\Debug\CallByReference.csproj.CoreCompileInputs.cache
+C:\Users\trios1098\source\repos\CallByReference\CallByReference\obj\Debug\CallByReference.exe
+C:\Users\trios1098\source\repos\CallByReference\CallByReference\obj\Debug\CallByReference.pdb

@@ -1,0 +1,6 @@
+C:\Users\trios1098\source\repos\BasicOfCSharp\BasicOfCSharp\bin\Debug\BasicOfCSharp.exe.config
+C:\Users\trios1098\source\repos\BasicOfCSharp\BasicOfCSharp\bin\Debug\BasicOfCSharp.exe
+C:\Users\trios1098\source\repos\BasicOfCSharp\BasicOfCSharp\bin\Debug\BasicOfCSharp.pdb
+C:\Users\trios1098\source\repos\BasicOfCSharp\BasicOfCSharp\obj\Debug\BasicOfCSharp.csproj.CoreCompileInputs.cache
+C:\Users\trios1098\source\repos\BasicOfCSharp\BasicOfCSharp\obj\Debug\BasicOfCSharp.exe
+C:\Users\trios1098\source\repos\BasicOfCSharp\BasicOfCSharp\obj\Debug\BasicOfCSharp.pdb
