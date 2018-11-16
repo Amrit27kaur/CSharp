@@ -13,8 +13,18 @@ namespace CallByReference
 
 
         {
+            ///add to no 
+            int num1 = 23;
+            int num2 = 13;
+            int ans=0;
+            Reference(ref num1,ref num2,ref ans);
+            Console.WriteLine("Original value is {0}", result);
 
-            //callby value 
+     
+            }
+                 
+
+        /*    //callby value 
             int testeValue = 1;
             Console.WriteLine("Original value is {0}", testeValue);
             TestCallByValue( testeValue);
@@ -35,7 +45,8 @@ namespace CallByReference
             Console.ReadKey();
         }
 
-        static void TestOut(out int aValue)
+
+      /*  static void TestOut(out int aValue)
         {
             aValue = 500;
             Console.WriteLine("Inside TestOut the value is {0}", aValue);
@@ -55,5 +66,10 @@ namespace CallByReference
             Console.WriteLine("Inside Testref the value is {0}", aValue);
         }
 
-    }
-}
+    }*/
+    
+             static public void Reference(ref int result )
+                {
+                      int result = num1 + num2;
+                }
+}}

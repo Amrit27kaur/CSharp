@@ -5,3 +5,7 @@ C:\Users\trios1098\source\repos\CallByReference\CallByReference\obj\Debug\CallBy
 C:\Users\trios1098\source\repos\CallByReference\CallByReference\obj\Debug\CallByReference.csproj.CoreCompileInputs.cache
 C:\Users\trios1098\source\repos\CallByReference\CallByReference\obj\Debug\CallByReference.exe
 C:\Users\trios1098\source\repos\CallByReference\CallByReference\obj\Debug\CallByReference.pdb
+C:\Users\trios1098\source\repos\CSharp\CallByReference\CallByReference\obj\Debug\CallByReference.csprojAssemblyReference.cache
+C:\Users\trios1098\source\repos\CSharp\CallByReference\CallByReference\obj\Debug\CallByReference.csproj.CoreCompileInputs.cache
+C:\Users\trios1098\source\repos\CSharp\CallByReference\CallByReference\obj\Debug\CallByReference.exe
+C:\Users\trios1098\source\repos\CSharp\CallByReference\CallByReference\obj\Debug\CallByReference.pdb
