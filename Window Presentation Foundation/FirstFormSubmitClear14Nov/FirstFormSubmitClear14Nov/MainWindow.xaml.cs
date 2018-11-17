@@ -35,9 +35,34 @@ namespace FirstFormSubmitClear14Nov
             var AName = add.Text;
             var PName = number.Text;
 
+
+            //for radio btn coding
+            var gender = "";
+            if (male.IsChecked == true)
+            {
+                gender = "Male";
+            }
+
+            if (female.IsChecked == true)
+            {
+                gender = "Female";
+            }
+
+              //for preference
+                var preference = "";
+                if (partBtn.IsChecked == true)
+                {
+                    preference = "Part Time";
+                }
+
+                if (fullBtn.IsChecked == true)
+                {
+                    preference = "Full Time";
+                } 
+
             //int PName = Convert.ToInt32(number.Text);   in if condition PName == null
 
-           
+
 
             //for textbox
             if (FName == "" || LName == "" || AName =="" || PName == "")
@@ -51,7 +76,7 @@ namespace FirstFormSubmitClear14Nov
 
             string connectionString = "datasource=127.0.0.1;port=3306;username=root;password=;database=trios_college;";
 
-            string query = "INSERT INTO student(`Student_id`, `FirstName`, `LastName`, `Address`,`Phone`) VALUES (NULL, '" + FName + "', '" + LName + "', '" + AName + "','" + PName + "')";
+            string query = "INSERT INTO student(`Student_id`, `FirstName`, `LastName`, `Address`,`Phone`,`gender`,`preference`) VALUES (NULL, '" + FName + "', '" + LName + "', '" + AName + "','" + PName + "','" + gender + "','" + preference + "')";
 
             // Which could be translated manually to :
 
@@ -97,17 +122,7 @@ namespace FirstFormSubmitClear14Nov
 
 
 
-            //for radio btn coding
-               var gender = "";
-                if (gen1.IsChecked == true)
-                {
-                    gender = "Male";
-                }
-
-                if (gen.IsChecked == true)
-                {
-                    gender = "Female";
-                }
+            
 
              /*   //for preference
                 var preference = "";
@@ -139,6 +154,14 @@ namespace FirstFormSubmitClear14Nov
         {
             //for close the window
             Application.Current.MainWindow.Close();
+        }
+
+        private void showBtn_Click(object sender, RoutedEventArgs e)
+        {
+            SecondWindowListOfStudent wind2 = new SecondWindowListOfStudent();
+            wind2.Show();
+            this.Hide();
+
         }
     }
 

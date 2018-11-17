@@ -9,7 +9,7 @@
     <Grid Background="#FFF0EDBE" Margin="0,0,25,13">
 
         <Label x:Name="CompanyName" Content="Trios College" HorizontalAlignment="Left" Margin="389,10,0,0" VerticalAlignment="Top" Width="383" Height="69" FontFamily="Times New Roman" FontSize="48" Grid.ColumnSpan="4" Grid.Column="1"/>
-        <Grid x:Name="Grid" HorizontalAlignment="Left" Height="612" Margin="0,105,0,0" VerticalAlignment="Top" Width="657" Background="#FFF1DF8B">
+        <Grid x:Name="Grid" HorizontalAlignment="Left" Height="612" Margin="0,105,0,0" VerticalAlignment="Top" Width="657" Background="#FFF1F18B">
             <Label x:Name="firstName" Content="First_Name" HorizontalAlignment="Left" Margin="41,28,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
             <Label x:Name="lastName" Content="LastName" HorizontalAlignment="Left" Margin="41,102,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
             <Label x:Name="address" Content="Address" HorizontalAlignment="Left" Margin="41,170,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
@@ -23,17 +23,19 @@
             <Label x:Name="gender" Content="Gender" HorizontalAlignment="Left" Margin="49,316,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
             <Label x:Name="preference" Content="Preference" HorizontalAlignment="Left" Margin="41,377,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
             <Button x:Name="exitBtn" Content="Exit" HorizontalAlignment="Left" Margin="467,512,0,0" VerticalAlignment="Top" Width="95" Height="60" FontSize="22" FontWeight="Bold" Click="exitBtn_Click" Background="#FFB0C578"/>
-            <RadioButton x:Name="gen" Content="Male" HorizontalAlignment="Left" Margin="357,325,0,0" VerticalAlignment="Top" GroupName="gen"/>
-            <RadioButton x:Name="female" Content="Female" HorizontalAlignment="Left" Margin="512,325,0,0" VerticalAlignment="Top" GroupName="gen"/>
-            <GroupBox Header="GroupBox" HorizontalAlignment="Left" Height="100" Margin="295,367,0,0" VerticalAlignment="Top" Width="274">
-                <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="62,32,0,0" VerticalAlignment="Top"/>
-            </GroupBox>
+            <RadioButton x:Name="male" Content="Male" HorizontalAlignment="Left" Margin="357,325,0,0" VerticalAlignment="Top" GroupName="gender"/>
+            <RadioButton x:Name="female" Content="Female" HorizontalAlignment="Left" Margin="512,325,0,0" VerticalAlignment="Top" GroupName="gender"/>
+            <WindowsFormsHost HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100"/>
+            <StackPanel HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100"/>
+            <RadioButton x:Name="partBtn" Content="PT" HorizontalAlignment="Left" Margin="357,389,0,0" VerticalAlignment="Top" GroupName="pref"/>
+            <RadioButton x:Name="fullBtn" Content="FT" HorizontalAlignment="Left" Margin="512,389,0,0" VerticalAlignment="Top" GroupName="pref"/>
 
 
         </Grid>
         <Image x:Name="picture" HorizontalAlignment="Left" Height="340" Margin="725,164,0,0" VerticalAlignment="Top" Width="284" Source="https://www.trios.com/career/Images/Medium/triOS-college-brampton-campus-and-patio-wide.jpg" Stretch="Fill"/>
         <Image x:Name="Image" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="327" Stretch="Fill" Source="https://cdn.trade-schools.net/static/ca/trios-college/trios-logo.jpg" Grid.ColumnSpan="2"/>
-        
+        <Button x:Name="showBtn" Content="studentList" HorizontalAlignment="Left" Margin="809,620,0,0" VerticalAlignment="Top" Width="200" Height="59" FontSize="22" FontWeight="Bold" Click="showBtn_Click"/>
+
 
     </Grid>
 </Window>
